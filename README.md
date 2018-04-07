@@ -38,5 +38,6 @@ Monero (XRM) donation address:
     AaMmmB5c3DKYuQEeTB6vc5fPt8gsUnJaVz
 
 ## I would like to contact HODLit.io team
+Mail:
 Twitter:
 Telegram:
