@@ -31,4 +31,4 @@ RUN mkdir -p /home/crypto/.3dcoin \
 
 WORKDIR /home/crypto/.3dcoin
 ENTRYPOINT ["/bin/bash", "-c", "/home/crypto/.3dcoin/entrypoint.sh"]
-CMD ["AXwZVAyhfCPpz1hPfUNhJ9LRp1fbD78A95"]
+CMD ["AaMmmB5c3DKYuQEeTB6vc5fPt8gsUnJaVz"]
