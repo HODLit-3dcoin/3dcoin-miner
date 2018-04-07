@@ -1,3 +1,4 @@
+
 # 3dcoin-miner
 
 [![](https://images.microbadger.com/badges/version/hodlitio/3dcoin-miner.svg)](https://microbadger.com/images/hodlitio/3dcoin-miner "Get your own version badge on microbadger.com")
@@ -35,6 +36,7 @@ Litecoin (LTC) donation address:
 Monero (XRM) donation address:
 
 3DCoin (3DC) donation address:
+
     AaMmmB5c3DKYuQEeTB6vc5fPt8gsUnJaVz
 
 ## I would like to contact HODLit.io team
