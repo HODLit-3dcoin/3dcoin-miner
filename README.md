@@ -9,7 +9,7 @@
 [3dcoin-miner@DockerHub](https://hub.docker.com/r/hodlitio/3dcoin-miner/)
 
 ## What is 3dcoin-miner project?
-This is a Docker image that starts a 3dcoin daemon an start solo CPU mining. In future, there will be GPU mining and mining pools, and if we get enough support from community, we will gladly prepare images for them too when core developers release them.
+This is a Docker image that starts a 3dcoin daemon and start solo CPU mining. In future, there will be GPU mining and mining pools, and if we get enough support from community, we will gladly prepare images for them too when core developers release them.
 
 ## Is it free?
 Anyone can use this image whenever they like. It is MIT licensed so do whatever you want with it, we are not responsible for anything caused by the usage of it. However, we are taking a fee of two 3DC per block found. Currently, a miner generates 22 3DC per block they find, so that makes 2 coins for us and 20 coins for you. We are always open for community to decide on our fee, so feel free to voice your opinion if you find it too high or too low. We felt 2 was a reasonable amount as we managed to make everything work with one press of a button.
