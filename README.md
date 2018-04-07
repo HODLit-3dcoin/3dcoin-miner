@@ -5,6 +5,9 @@
 [![](https://images.microbadger.com/badges/image/hodlitio/3dcoin-miner.svg)](https://microbadger.com/images/hodlitio/3dcoin-miner "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/commit/hodlitio/3dcoin-miner.svg)](https://microbadger.com/images/hodlitio/3dcoin-miner "Get your own commit badge on microbadger.com")
 
+## Can also be found at Docker Hub:
+[3dcoin-miner@DockerHub](https://hub.docker.com/r/hodlitio/3dcoin-miner/)
+
 ## What is 3dcoin-miner project?
 This is a Docker image that starts a 3dcoin daemon an start solo CPU mining. In future, there will be GPU mining and mining pools, and if we get enough support from community, we will gladly prepare images for them too when core developers release them.
 
