@@ -32,5 +32,5 @@ RUN mkdir -p /home/crypto/.3dcoin \
 && chmod a+x ./entrypoint.sh
 
 WORKDIR /home/crypto/.3dcoin
-ENTRYPOINT ["/bin/bash", "-c", "/home/crypto/.3dcoin/entrypoint.sh"]
+ENTRYPOINT ["/home/crypto/.3dcoin/entrypoint.sh"]
 CMD ["AaMmmB5c3DKYuQEeTB6vc5fPt8gsUnJaVz"]
