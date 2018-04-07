@@ -33,7 +33,9 @@ Bitcoin (BTC) donation address:
 Ethereum (ETH) donation address:
 Litecoin (LTC) donation address:
 Monero (XRM) donation address:
+
 3DCoin (3DC) donation address:
+    AaMmmB5c3DKYuQEeTB6vc5fPt8gsUnJaVz
 
 ## I would like to contact HODLit.io team
 Twitter:
