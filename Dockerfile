@@ -1,4 +1,4 @@
-FROM hodlitio/3dcoin-builder
+FROM hodlitio/3dcoin-builder:v0.13.3.1
 
 # Build-time metadata as defined at http://label-schema.org
 ARG BUILD_DATE
